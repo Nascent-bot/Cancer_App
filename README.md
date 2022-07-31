@@ -277,7 +277,7 @@ This Application is currently not licensed and is free to use by everyone.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Raghul Ravikumar](https://www.linkedin.com/in/sukeshperla/) - raghul0211@gmail.com
+Your Name - [Sukesh Perla](https://www.linkedin.com/in/sukeshperla/) - sukesh9244@gmail.com
 
 Project Link: [Breast Cancer Detection](https://github.com/ACM40960/project-Sukesh-Perla)
 
@@ -312,7 +312,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/badge/Issues-0-blue
 [issues-url]: https://github.com/ACM40960/project-Sukesh-Perla/issues
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-blue
-[linkedin-url]: https://www.linkedin.com/in/raghul0211/
+[linkedin-url]: https://www.linkedin.com/in/sukeshperla/
 [product-screenshot]: Images/introduction.png
 [python]: https://img.shields.io/badge/Python_3.8-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [python-url]: https://www.python.org/
